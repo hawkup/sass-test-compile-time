@@ -1,0 +1,25 @@
+{
+  "name": "sass-test-compile-time",
+  "version": "1.0.0",
+  "description": "Test sass precompile with gulp",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-ruby-sass": "^1.0.0-alpha",
+    "gulp-sass": "^1.2.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hawkup/sass-test-compile-time.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hawkup/sass-test-compile-time/issues"
+  },
+  "homepage": "https://github.com/hawkup/sass-test-compile-time"
+}
